@@ -1,3 +1,4 @@
+# Sales Data Performance 🛒
 This project focuses on analyzing sales data to evaluate overall performance, particularly by examining revenue and determining which product types contribute most significantly to sales.
 
 ## Objective
